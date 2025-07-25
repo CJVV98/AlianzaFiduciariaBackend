@@ -1,6 +1,7 @@
 package com.alianza.dto;
 
 import java.time.LocalDate;
+
 import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
@@ -9,6 +10,7 @@ import lombok.Setter;
 @Setter
 @Getter
 public class ClientDto {
+
 	private String user;
 	private String name;
 	private String email;

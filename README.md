@@ -14,6 +14,11 @@ Este proyecto backend permite **consultar y crear clientes** usando **Java 17**,
 ![Postman](./assets/prueba1.png)
 ![Postman](./assets/prueba2.png)
 
+
+
+## URL de Postman
+http://localhost:8080/pruebaAlianza
+
 ## 🚀 Ejecución del proyecto
 
 Clona el repositorio y ejecuta:
