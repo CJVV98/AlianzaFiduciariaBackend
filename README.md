@@ -16,3 +16,7 @@ Clona el repositorio y ejecuta:
 
 ```bash
 mvn spring-boot:run
+
+
+##  Pruebas
+![Arquitectura](./assets/prueba1.png)
