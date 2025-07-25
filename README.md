@@ -12,6 +12,7 @@ Este proyecto backend permite **consultar y crear clientes** usando **Java 17**,
 
 ## Pruebas
 ![Postman](./assets/prueba1.png)
+![Postman](./assets/prueba2.png)
 
 ## 🚀 Ejecución del proyecto
 
