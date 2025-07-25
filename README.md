@@ -10,13 +10,12 @@ Este proyecto backend permite **consultar y crear clientes** usando **Java 17**,
 - GraphQL Java Tools
 - Eclipse
 
+## Pruebas
+![Postman](./assets/prueba1.png)
+
 ## 🚀 Ejecución del proyecto
 
 Clona el repositorio y ejecuta:
 
 ```bash
 mvn spring-boot:run
-
-
-##  Pruebas
-![Arquitectura](./assets/prueba1.png)
